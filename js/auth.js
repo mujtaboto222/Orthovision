@@ -11,7 +11,7 @@ import { getAuth, signInWithPopup, GoogleAuthProvider, signOut, onAuthStateChang
 
 const firebaseConfig = {
   apiKey: "AIzaSyAtn5K4EVtwKZy4FX2KQ_7adUs2HmtGrRs",
-  authDomain: "orthovision-492112.firebaseapp.com",
+  authDomain: "app.orthotimes.net",
   projectId: "orthovision-492112",
   storageBucket: "orthovision-492112.firebasestorage.app",
   messagingSenderId: "450970102800",
